@@ -1,1 +1,2 @@
-Hey it's the stash out here, Have a look on it.
+git Hey it's the stash out here, Have a look on it.
+This is the stash added in Stash.txt at stash branch.
